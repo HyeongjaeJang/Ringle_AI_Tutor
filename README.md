@@ -83,10 +83,10 @@ rails s -p 4000
 cd ai-tutor-web
 npm install
 
-.env.sample 파일을 .env로 바꿔주십시요. OpenAI API키는 제가 가지고있는 credit으로 돌아가고 있습니다.
+.env.sample 파일을 .env로 바꿔주십시요. 자신의 OpenAI API키를 사용해주세요.
 # .env.sample 예시
 # NEXT_PUBLIC_API_BASE_URL=http://localhost:4000/api/v1
-# OPENAI_API_KEY="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"
+# OPENAI_API_KEY=""
 
 
 # 개발 서버
